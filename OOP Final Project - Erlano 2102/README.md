@@ -1,4 +1,4 @@
-# *EvacuAid: Disaster Evacuation Management System* 
+# *EvacuAid: Disaster Evacuation Management* 
 
 ## **I. Project Overview**
 
@@ -55,4 +55,3 @@ Follow these steps to run the EvacuAid Java console application:
 
  **Exit the Program**  
    - Once all families are registered, the program will close.  
-
